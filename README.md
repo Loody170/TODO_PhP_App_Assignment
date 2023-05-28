@@ -1,3 +1,10 @@
+# Addition 1: Mark all as done button
+![screenshot1](screenshot1.jpg)
+
+# Addition 2: Show completed tasks page
+![screenshot1](screenshot2.jpg)
+
+
 # ToDo app
 A simple todo app written in PHP and uses MySQL to store todo items.
 
